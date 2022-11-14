@@ -1,2 +1,5 @@
 # DemoRepo
-Demo Repository
+Bye world 
+
+Three colors
+
